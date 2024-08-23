@@ -1,0 +1,27 @@
+body {
+    color: white;
+    background: black;
+    margin: 0px;
+
+}
+
+header {
+    border-bottom: solid 2px red ;
+padding: 20px; 
+font-size: 32px;
+color: red;
+
+}
+
+section{
+background-color: black;
+padding-bottom: 80px;
+padding-top: 80px;
+display: flex;
+justify-content: center;
+
+}
+
+.chamar-texto {
+
+}
